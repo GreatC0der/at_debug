@@ -1,0 +1,12 @@
+[package]
+name = "at_debug"
+description = "Execute this statement in debug but not in release build."
+repo = "https://github.com/GreatC0der/at_debug"
+authors = ["GreatC0der"]
+license = "GPL-3.0"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
